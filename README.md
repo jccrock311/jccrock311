@@ -8,7 +8,8 @@ My name is Jonathan Carmichael. I'm currently pursuing a certificate in Data Ana
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm #1 on the Rock Band leaderboards for multiple songs via guitar. 🎸
 
-[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jccrock311)](https://github.com/jccrock311/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jccrock311)](https://github.com/jccrock311/github-readme-stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jccrock311&hide_progress=true)
 
 <h1 align="center"><pre>If you like small mammals and music, let's be friends. <br />🎤🐿️   🎸🐀   🥁🐕   🎹🐈</h1></pre>
 <div style="text-align: center;">
