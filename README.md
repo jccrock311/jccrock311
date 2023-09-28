@@ -1,10 +1,11 @@
-<h1 align="center">"Hello, Chippies! 
-This is your pal, Chippimunkoo!"</h1>
+<h1 align="center">"Hello, Chippies! This is your pal, Chippimunkoo!"</h1>
 <h4 align="center">"Or Jonathan works, too."</h4>
   
 <p float="left"><p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnAxZjI4MDhwcnFvajFudndqNGQ5bGo0c2l6cWdocmFxdDBiZzJwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oU1JMnL9WsJ5zLB2r7/giphy.gif" width="32%" height="300" border="10"/>
 
 <div style="text-align: center;">
+  
+------
 
 I'm currently pursuing a professional certificate in Data Analytics from Southern Methodist University as a part of their 2023 Data Analytics boot camp! I have a BM in music composition, as well as a minor in arts administration from Texas Christian University. I've often said that music is my life, and that remains true in many ways. However, I've also found that observing and analyzing data is an incredibly strong passion of mine as well.
 
@@ -21,5 +22,5 @@ I'm proficient in Python, as well as having experience in HTML, SQL, and VBA. I 
 
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jccrock311&theme=neon&hide_progress=true)](https://github.com/jccrock311/github-readme-stats)
 
-<h1 align="center"><pre>If you like small mammals and music, let's be friends. <br />🎤🐿️   🎸🐀   🥁🐕   🎹🐈</h1></pre>
+<h1 align="center">If you like small mammals and music, let's be friends. <br />🎤🐿️   🎸🐀   🥁🐕   🎹🐈</h1>
 <div style="text-align: center;">
