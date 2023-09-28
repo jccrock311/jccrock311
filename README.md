@@ -22,5 +22,5 @@ I'm proficient in Python, as well as having experience in HTML, SQL, and VBA. I 
 
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jccrock311&theme=neon&hide_progress=true)](https://github.com/jccrock311/github-readme-stats)
 
-<h1 align="center">If you like small mammals and music, let's be friends. <br />🎤🐿️   🎸🐀   🥁🐕   🎹🐈</h1>
+<h1 align="center"><pre>If you like small mammals and music, let's be friends. <br />🎤🐿️   🎸🐀   🥁🐕   🎹🐈</h1></pre>
 <div style="text-align: center;">
