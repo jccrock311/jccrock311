@@ -1,4 +1,4 @@
-<h1 align="center"><pre>"Hello, Chippies! This is your pal, Chippimunkoo!"</h1></pre>
+<h1 align="center"><pre>"Hello, Chippies!  This is your pal, Chippimunkoo!"</h1></pre>
 <h4 align="center"><pre>"Or Jonathan works, too."</h4></pre>
   
 <p float="left"><p align="center"><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnAxZjI4MDhwcnFvajFudndqNGQ5bGo0c2l6cWdocmFxdDBiZzJwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oU1JMnL9WsJ5zLB2r7/giphy.gif" width="32%" height="300" border="10"/>
